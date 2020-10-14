@@ -10,6 +10,16 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 Initial Commit
 
+Git Ignore: npx gitignore node 
+Package.json: npm init -y
+Nodemon: npm i -D nodemon
+Express: npm i express helmet
+Create Folders and Files: 
+  - index.js
+  - api (folder)
+    - server.js
+
+
 Pick any API, could be one of your past projects, and deploy it to `heroku`.
 
 ### Task 2: Stretch Goal
