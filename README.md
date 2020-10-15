@@ -18,6 +18,14 @@ Create Folders and Files:
   - index.js
   - api (folder)
     - server.js
+Build out basic files:
+  server.js
+    import express to create basic server/endpoint
+  index.js
+    listen for server to eventually be sent to PORT || environment
+Build out heroku server
+Create new app on heroku > Deploy
+(Add another environment to server.json statement)
 
 
 Pick any API, could be one of your past projects, and deploy it to `heroku`.
